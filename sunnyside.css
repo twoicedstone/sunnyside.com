@@ -19,7 +19,7 @@ body {
 	height: 100vh;
 }
 
-#desktopNavigation {
+#desktop-Navigation {
 	display: none;
 }
 
@@ -408,7 +408,7 @@ footer {
 		display: none;
 	}
 
-	#desktopNavigation {
+	#desktop-Navigation {
 		display: flex;
 		gap: 4rem;
 	}
